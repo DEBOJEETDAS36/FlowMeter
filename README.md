@@ -11,7 +11,7 @@ and interact with the blockchain.
 
 ------------------------------------------------------------------------
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d17bff4d-49b2-4d95-adc7-614efbfff188" />
+
 
 
 ## 📘 Overview
