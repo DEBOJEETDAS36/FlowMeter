@@ -109,19 +109,6 @@ You can also interact with it using your scripts or a frontend using the contrac
 
 ---
 
-## 🌟 Suggested Project Names
-
-- Countify  
-- BlockCount  
-- ChainCounter  
-- TallyChain  
-- Incremint  
-- ByteCount  
-- StepZero  
-- CountVerse  
-
----
-
 ## 🪙 License
 
 MIT License © 2025 Debojeet Das
